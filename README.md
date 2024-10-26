@@ -71,9 +71,5 @@ Reports are located in the `test-output/ExtentReports` folder.
 ## 🤝 Contribution
 Contributions, issues, and feature requests are welcome! Please feel free to submit a pull request or create an issue for any bugs or enhancements.
 
-## 📜 License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
----
 
 This template should provide a clear and professional overview of your framework! Feel free to adapt it with project-specific details as needed.
