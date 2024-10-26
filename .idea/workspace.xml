@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="11d3c477-f461-45f5-9028-53f57a002408" name="Changes" comment="automated login TestCase's" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;yadavrahulo4&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/yadavrahulo4/OrangeHRM-TestFramework.git&quot;,
+    &quot;accountId&quot;: &quot;ed8a2d33-41a4-4978-baca-08033a97fccf&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/com/aventstack/extentreports/5.0.9/extentreports-5.0.9-sources.jar!/com/aventstack/extentreports/ExtentReports.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2ljLuKXfbiKsBsFInH58epZhv33" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;JavaScript Debug.extentReport.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.extentReport2024-09-20 15_27_22.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.extentReport2024-09-21 13_04_41.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.extentReport2024-09-22 09_48_33.html.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.C:/Users/Rahul/Desktop/YADAVRAHULO4-WORKSPACE-INTELI-J/Test-Automation-Framework/src/test/java/com/yadavrahulo4/test/runner/testNG.xml.executor&quot;: &quot;Run&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Rahul/Desktop/YADAVRAHULO4-WORKSPACE-INTELI-J/Test-Automation-Framework&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Rahul/Desktop/YADAVRAHULO4-WORKSPACE-INTELI-J/Test-Automation-Framework/src/main/java/com/yadavrahulo4/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="Push.Settings">
+    <force-push-targets>
+      <force-push-target remote-path="origin" branch="detached" />
+    </force-push-targets>
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.yadavrahulo4.controller" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/Rahul/Desktop/YADAVRAHULO4-WORKSPACE-INTELI-J/Test-Automation-Framework/src/test/java/com/yadavrahulo4/test/runner/testNG.xml">
+    <configuration name="extentReport2024-09-20 15_27_22.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Test-Automation-Framework/extentReport2024-09-20 15_27_22.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="extentReport2024-09-21 13_04_41.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Test-Automation-Framework/extentReport2024-09-21 13_04_41.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="extentReport.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Test-Automation-Framework/extentReport.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="C:/Users/Rahul/Desktop/YADAVRAHULO4-WORKSPACE-INTELI-J/Test-Automation-Framework/src/test/java/com/yadavrahulo4/test/runner/testNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Test-Automation-Framework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/com/yadavrahulo4/test/runner/testNG.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/Rahul/Desktop/YADAVRAHULO4-WORKSPACE-INTELI-J/Test-Automation-Framework/src/test/java/com/yadavrahulo4/test/runner/testNG.xml" />
+        <item itemvalue="TestNG.C:/Users/Rahul/Desktop/YADAVRAHULO4-WORKSPACE-INTELI-J/Test-Automation-Framework/src/test/java/com/yadavrahulo4/test/runner/testNG.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11d3c477-f461-45f5-9028-53f57a002408" name="Changes" comment="" />
+      <created>1725688760643</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725688760643</updated>
+      <workItem from="1725688761841" duration="13545000" />
+      <workItem from="1726153034398" duration="2742000" />
+      <workItem from="1726414026275" duration="1277000" />
+      <workItem from="1726547801008" duration="14419000" />
+      <workItem from="1726653534657" duration="595000" />
+      <workItem from="1726823865166" duration="5607000" />
+      <workItem from="1726895839137" duration="445000" />
+      <workItem from="1726896325213" duration="26736000" />
+      <workItem from="1727161372960" duration="9679000" />
+      <workItem from="1727238003376" duration="23000" />
+      <workItem from="1727238101160" duration="4045000" />
+      <workItem from="1727329381104" duration="1849000" />
+      <workItem from="1727353476599" duration="604000" />
+      <workItem from="1727355598602" duration="1828000" />
+    </task>
+    <task id="LOCAL-00001" summary="automated login TestCase's">
+      <option name="closed" value="true" />
+      <created>1727238672009</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727238672009</updated>
+    </task>
+    <task id="LOCAL-00002" summary="automated login TestCase's">
+      <option name="closed" value="true" />
+      <created>1728975561911</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728975561911</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:io.reactivex.rxjava3:rxjava" />
+    <option featureType="dependencySupport" implementationName="java:org.seleniumhq.selenium:selenium-java" />
+    <option featureType="com.intellij.configurationType" implementationName="JavascriptDebugType" />
+    <option featureType="dependencySupport" implementationName="java:org.projectlombok:lombok" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="date">
+                    <value>
+                      <list>
+                        <option value="1726633825427" />
+                        <option value="" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="automated login TestCase's" />
+    <option name="LAST_COMMIT_MESSAGE" value="automated login TestCase's" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yadavrahulo4/controller/LoginPageController.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yadavrahulo4/controller/LoginPageController.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<suite name="Orange HRM Test suite">
+    <listeners>
+        <listener class-name="com.yadavrahulo4.utility.ExtReportListener"/>
+    </listeners>
+    <test name="Login Scenario">
+        <!--            <class name="com.yadavrahulo4.test.LoginTest"/>-->
+    </test>
+    <test name="Dashboard Scenario">
+        <classes>
+            <class name="com.yadavrahulo4.test.DashBoardTest"/>
+        </classes>
+    </test>
+</suite>
